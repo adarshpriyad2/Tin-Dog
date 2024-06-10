@@ -1,2 +1,1 @@
-# Tin-Dog
-Basic webpage to buy a dog
+TinDog Starting Files
